@@ -1,6 +1,6 @@
 # PySpark ETL Telecom
 
-This [notebook](https://github.com/cvilla87/PySpark-ETL-Telecom/blob/master/PySpark%20ETL%20Telecom.ipynb) uses **PySpark** to load millions of records (around 200 MB of non-compressed files) and process them using **SparkSQL** and **DataFrames**.
+This [notebook](https://github.com/cvilla87/PySpark-ETL-Telecom/blob/master/PySpark%20ETL%20Telecom.ipynb) uses **PySpark** to load millions of records (around 200 MB of non-compressed files) and processes them using **SparkSQL** and **DataFrames**.
 
 The main focus is not the data mining but the data engineering.<br>
 
@@ -12,7 +12,7 @@ Contents covered in this notebook include:
 * SQL queries with **SparkSQL**.
 * Visualization with **Matplotlib**.
 
-Access to the notebook [PySpark ETL Telecom](https://github.com/cvilla87/PySpark-ETL-Telecom/blob/master/PySpark%20ETL%20Telecom.ipynb).
+Access to the notebook: [PySpark ETL Telecom](https://github.com/cvilla87/PySpark-ETL-Telecom/blob/master/PySpark%20ETL%20Telecom.ipynb).
 <br><br>
 
 ## Dataset
